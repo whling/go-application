@@ -1,0 +1,4 @@
+github.com/pelletier/go-toml v1.9.5 h1:4yBQzkHv+7BHq2PQUZF3Mx0IYxG7LsP222s7Agd3ve8=
+github.com/pelletier/go-toml v1.9.5/go.mod h1:u1nR/EPcESfeI/szUZKdtJ0xRNbUoANCkoOuaOx1Y+c=
+github.com/whling/go-config v1.0.0 h1:bJgaJjyD/xv0bWpJccf88Xxlutm94f+Svpyu+H7LZV4=
+github.com/whling/go-config v1.0.0/go.mod h1:F1muyv94vTifo/mdhvgVwmL7IiA4RN/R1XAM1b5eE04=
